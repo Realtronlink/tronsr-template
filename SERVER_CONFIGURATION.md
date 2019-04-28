@@ -1,5 +1,5 @@
-- Bare metal server
-- Location: USA, San Francisco
+- Bare-metal server 
+- Location: Beijing, China
 - CPU: Intel Xeon Processor E5-2670, 3.3 Ghz
 - Core Processor: 32-Core
 - RAM: 192 GB
