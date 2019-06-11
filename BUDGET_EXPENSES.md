@@ -1,5 +1,4 @@
-We offer 80% TRX block rewards for our voters.
-
-1. 12% TRX reward for DApp projects;
-2. 9% for ourselves;
-3. 3% for other projects
+The rewards will be used in following aspects:
+1. Wallet development and infrastructure expense - 60%
+2. Wallet marketing promotion - 30%
+3. Team bonus - 10%
